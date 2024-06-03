@@ -1,2 +1,1 @@
-# AliKazmiii.github.io
-This is my new css based website
+# myprofile.github.io
